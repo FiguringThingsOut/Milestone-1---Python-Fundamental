@@ -1,2 +1,2 @@
-# Milestone-1---Python-Fundamental
-Python Fundamental - Create Database Function CRUD
+![](image/Cover_milestone_1_1.JPG)
+![](image/Cover_milestone_1_2.JPG)
